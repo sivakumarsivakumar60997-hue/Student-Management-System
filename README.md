@@ -112,10 +112,9 @@ Add your actual program output screenshots here to demonstrate how the applicati
 Example Markdown:
 
 ```markdown
-![Application Menu](screenshots/menu.png)
+![Java Main Menu](menu.png)
 
-![Student Report Card](screenshots/report-card.png)
-```
+![Student Report Card](report-card.png)
 
 Create a `screenshots` folder in your repository and upload your screenshots before using these image links.
 
